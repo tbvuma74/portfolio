@@ -6,7 +6,11 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 ---
 author: Tau H
-title: My firsst attempt at a Portfolio for Level 2
+title: [My firsst attempt at a Portfolio for Level 2]
+description: [This collection of work is often gathered over a long period of time to reflect what you have been taught as well as what you have learned.]
+
+show_downloads: [true]
+google_analytics: [Your Google Analytics tracking ID]
 
 
 gem "github-pages", group: :jekyll_plugins
