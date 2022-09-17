@@ -9,3 +9,4 @@ author: Tau H
 title: My firsst attempt at a Portfolio for Level 2
 
 
+gem "github-pages", group: :jekyll_plugins
