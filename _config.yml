@@ -1,10 +1,11 @@
 ---
 #settings
 theme: tactile
-remote_theme: THEME-NAME
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 ---
 author: Tau H
 title: My firsst attempt at a Portfolio for Level 2
-
 
 
